@@ -15,3 +15,4 @@ Script to create a symbolic link named _ls_ to /bin/ls in the cureent working di
 Script to copy all HTML files in the working directory to the parent of the working directory but only files that does not exist or are new in the parent working directory
 Script that moves all files that begins with uppercase to the /tmp/u directory
 Script that deletes all files that end with ~ character in the working directory
+Script that creates directories welcome/, welcome/to/ and welcome/to/school in the current working directory
