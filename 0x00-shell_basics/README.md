@@ -17,3 +17,4 @@ Script that moves all files that begins with uppercase to the /tmp/u directory
 Script that deletes all files that end with ~ character in the working directory
 Script that creates directories welcome/, welcome/to/ and welcome/to/school in the current working directory
 Script that list all files and directories in the current directory seperated by commas, including all hidden ones and other conditions
+Script magic file school.mgc
