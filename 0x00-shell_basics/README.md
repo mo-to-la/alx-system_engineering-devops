@@ -13,3 +13,4 @@ Script that list content of all files including hidden ones in the working direc
 Script that print the type of file named iamafile, located in /tmp directory
 Script to create a symbolic link named _ls_ to /bin/ls in the cureent working directory
 Script to copy all HTML files in the working directory to the parent of the working directory but only files that does not exist or are new in the parent working directory
+Script that moves all files that begins with uppercase to the /tmp/u directory
