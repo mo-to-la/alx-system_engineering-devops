@@ -8,3 +8,4 @@ Script to create directory named my_first_directory in the /tmp/ directory
 Script to move the file betty from /tmp/ to /tmp/my_first_directory
 Script to delete file betty
 Script to delete my_first_directory from /tmp/
+Script that changes working directory to the previous one
