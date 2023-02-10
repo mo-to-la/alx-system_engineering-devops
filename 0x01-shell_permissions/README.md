@@ -9,3 +9,4 @@ Script that adds execution permission to the owner, the group owner and the othe
 Script that sets no permissions for owner and group but all permission for other users
 Script that gives gives 753 permission
 Scriptthat sets the mode of the file hello the same as olleh’s mode
+Script that dds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
