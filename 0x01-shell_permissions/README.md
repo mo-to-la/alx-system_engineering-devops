@@ -7,3 +7,4 @@ Script that adds execute permission to the owner of the file hello
 Script that adds execute permission to the owner and the group owner, and read permission to other users, to the file hello
 Script that adds execution permission to the owner, the group owner and the other users, to the file hello
 Script that sets no permissions for owner and group but all permission for other users
+Script that gives gives 753 permission
