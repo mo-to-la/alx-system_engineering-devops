@@ -8,3 +8,4 @@ Script that displays the third line of the file iacta
 Script  that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
 Script that writes into and over wtites into the file ls_cwd_content theresult of the command ls -la
 Script that duplicates the last line of the file iacta
+Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
