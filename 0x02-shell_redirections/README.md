@@ -6,3 +6,4 @@ Script that display the last 10 lines of /etc/passwd
 Script that displays the first 10 lines of /etc/passwd
 Script that displays the third line of the file iacta
 Script  that creates a file named exactly \*\'Best School\'\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line.
+Script that writes into and over wtites into the file ls_cwd_content theresult of the command ls -la
