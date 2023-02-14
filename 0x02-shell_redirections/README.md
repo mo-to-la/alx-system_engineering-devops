@@ -18,3 +18,4 @@ Script that display lines containing the pattern “root” and 3 lines after th
 Script that display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 Script that display all lines of the file /etc/ssh/sshd_config starting with a letter
 Script that Replace all characters A and c from input to Z and e respectively.
+Script that removes all letters c and C from input
