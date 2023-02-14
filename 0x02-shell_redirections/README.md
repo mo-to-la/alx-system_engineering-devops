@@ -10,3 +10,4 @@ Script that writes into and over wtites into the file ls_cwd_content theresult o
 Script that duplicates the last line of the file iacta
 Script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 Script that counts the number of directories and sub-directories in the current directory without the current and working directory. Hidden directories should be counted too
+Script that displays the 10 newest files in the current directory
